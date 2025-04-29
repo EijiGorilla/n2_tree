@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkn2_tree=self.webpackChunkn2_tree||[]).push([[99612],{99612:(e,t,s)=>{s.r(t),s.d(t,{default:()=>r});class r{constructor(e){this.layer=null,this.memory=0,this.displayedNumberOfFeatures=0,this.maximumNumberOfFeatures=null,this.totalNumberOfFeatures=null,this.layer=e.layer;const t=e.performanceInfo;this.memory=t.usedMemory,this.displayedNumberOfFeatures=t.displayedFeatures,this.maximumNumberOfFeatures=t.maximumFeatures,this.totalNumberOfFeatures=t.totalFeatures}}}}]);
+//# sourceMappingURL=99612.68bd2a8a.chunk.js.map

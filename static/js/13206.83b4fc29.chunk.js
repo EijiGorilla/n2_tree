@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkn2_tree=self.webpackChunkn2_tree||[]).push([[13206],{13206:(e,r,n)=>{n.r(r),n.d(r,{default:()=>a});var o=n(35143),s=n(42553),t=n(46053),c=(n(81806),n(76460),n(47249),n(85842));let u=class extends s.A{constructor(e){super(e)}clone(){throw new Error("Subclasses of Background should implement their own clone method.")}};(0,o._)([(0,t.MZ)({readOnly:!0,json:{read:!1}})],u.prototype,"type",void 0),u=(0,o._)([(0,c.$)("esri.webscene.background.Background")],u);const a=u}}]);
+//# sourceMappingURL=13206.83b4fc29.chunk.js.map

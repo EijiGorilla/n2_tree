@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkn2_tree=self.webpackChunkn2_tree||[]).push([[16159,38540,71397,93778],{16159:(e,t,r)=>{r.d(t,{q:()=>s});var n=r(19747);const s={readOnly:!0,get(){return(0,n.c)(this.view)}}},19747:(e,t,r)=>{r.d(t,{c:()=>u});var n=r(31633),s=r(24883);function u(e){const t="metric";if(null==e)return t;const r=e.map,u=(r&&"portalItem"in r?r.portalItem?.portal:null)??s.default.getDefault();switch(u.user?.units??u.units){case t:return t;case"english":return"imperial"}return(0,n.jM)(e.spatialReference)??t}}}]);
+//# sourceMappingURL=16159.9d4282dd.chunk.js.map

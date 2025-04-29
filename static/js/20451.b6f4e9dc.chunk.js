@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkn2_tree=self.webpackChunkn2_tree||[]).push([[20451],{20451:(e,r,t)=>{t.r(r),t.d(r,{fetchSymbolFromStyle:()=>n});var c=t(26314);function n(e,r,t,n,m,u){return(0,c.I)(e,r,t,(e=>{const r=m(e,n);return r?{format:"cimRef"===n?"cim":"web",url:r}:void 0}),{...u,acceptedFormats:"cimRef"===n?["cim"]:["web"]})}}}]);
+//# sourceMappingURL=20451.b6f4e9dc.chunk.js.map

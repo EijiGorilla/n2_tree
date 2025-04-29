@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkn2_tree=self.webpackChunkn2_tree||[]).push([[68649],{68649:(e,a,l)=>{l.r(a),l.d(a,{default:()=>i});var r=l(35143),s=l(46053),t=(l(81806),l(76460),l(47249),l(85842));const i=e=>{let a=class extends e{get availableFields(){return this.layer.fieldsIndex.fields.map((e=>e.name))}};return(0,r._)([(0,s.MZ)()],a.prototype,"layer",void 0),(0,r._)([(0,s.MZ)({readOnly:!0})],a.prototype,"availableFields",null),a=(0,r._)([(0,t.$)("esri.views.layers.OGCFeatureLayerView")],a),a}}}]);
+//# sourceMappingURL=68649.54037b64.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkn2_tree=self.webpackChunkn2_tree||[]).push([[78362],{78362:(e,n,r)=>{r.r(n),r.d(n,{getVersionInfos:()=>a});var s=r(3825),t=r(54994);async function a(e,n,r){const a=(0,t.Dl)(e),i=n.toJSON(),o=(0,t.jV)(a.query,{query:(0,t.lF)({...i,f:"json"}),...r}),u=`${a.path}/versionInfos`,{data:f}=await(0,s.default)(u,o);return f.versions.map((e=>{const{versionName:n,versionGuid:r,...s}=e;return{...s,versionIdentifier:{name:n,guid:r}}}))}}}]);
+//# sourceMappingURL=78362.ad626deb.chunk.js.map

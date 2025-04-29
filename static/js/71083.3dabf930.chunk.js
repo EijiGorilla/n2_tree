@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkn2_tree=self.webpackChunkn2_tree||[]).push([[71083],{71083:(e,l,n)=>{n.r(l),n.d(l,{default:()=>p});const p={point:e=>"point"===e.type?e:"polygon"===e.type||"polyline"===e.type?e.extent?.center??null:null,polygon:e=>"polygon"===e.type?e:null,polyline:e=>"polyline"===e.type?e:null}}}]);
+//# sourceMappingURL=71083.3dabf930.chunk.js.map

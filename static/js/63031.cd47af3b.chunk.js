@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkn2_tree=self.webpackChunkn2_tree||[]).push([[63031],{19747:(e,t,r)=>{r.d(t,{c:()=>a});var n=r(31633),u=r(24883);function a(e){const t="metric";if(null==e)return t;const r=e.map,a=(r&&"portalItem"in r?r.portalItem?.portal:null)??u.default.getDefault();switch(a.user?.units??a.units){case t:return t;case"english":return"imperial"}return(0,n.jM)(e.spatialReference)??t}},63031:(e,t,r)=>{r.r(t),r.d(t,{getDefaultUnitForView:()=>u});var n=r(19747);function u(e){return(0,n.c)(e)}}}]);
+//# sourceMappingURL=63031.cd47af3b.chunk.js.map

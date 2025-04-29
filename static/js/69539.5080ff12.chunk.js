@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkn2_tree=self.webpackChunkn2_tree||[]).push([[69539],{91920:(e,t,s)=>{s.r(t),s.d(t,{defaultThematicColor:()=>c});const c=s(87840).Sw}}]);
+//# sourceMappingURL=69539.5080ff12.chunk.js.map

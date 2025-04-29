@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkn2_tree=self.webpackChunkn2_tree||[]).push([[77404],{77404:(e,n,t)=>{t.r(n),t.d(n,{default:()=>p});var i,s=t(35143),r=t(42553),l=t(46053),c=(t(81806),t(76460),t(47249),t(85842)),o=t(9342);let u=i=class extends r.A{constructor(e){super(e),this.viewing=null}clone(){return new i({viewing:this.viewing?.clone()??null})}};(0,s._)([(0,l.MZ)({type:o.default,json:{write:!0}})],u.prototype,"viewing",void 0),u=i=(0,s._)([(0,c.$)("esri.webscene.ApplicationProperties")],u);const p=u}}]);
+//# sourceMappingURL=77404.2cf873c4.chunk.js.map
