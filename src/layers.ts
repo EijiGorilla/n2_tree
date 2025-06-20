@@ -105,7 +105,7 @@ export const stationLayer = new FeatureLayer({
     },
   },
   layerId: 2,
-  title: "SC Stations",
+  title: "N2 Stations",
   labelingInfo: [labelClass],
   elevationInfo: {
     mode: "relative-to-ground",
